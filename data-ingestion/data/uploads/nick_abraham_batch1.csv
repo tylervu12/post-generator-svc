@@ -1,0 +1,417 @@
+content,platform,date
+"You couldn't pay me to start an ecom agency.
+
+- fulfillment is extremely complex 
+
+- client acquisition is harder compared to other industries 
+
+- clients operate on slim margins which makes your service ""expensive"" 
+
+Am I missing something?",twitter,5/10/2025
+"ran a campaign where we find the colleague of the person we're reaching out to
+
+""Hey [first-name], I wasn't sure if I should reach out to you or [colleague-name] ""
+
+turns out colleague died a couple years ago 
+
+brutal lol",twitter,5/11/2025
+"""quick question"" is the LeBron of cold email:
+
+- Great at the start
+
+- Everyone said performance would drop as time went on
+
+- People make excuses for why it's not actually that good
+
+- Still goated years after everyone said it'd be washed
+
+i need to get back to work lol",twitter,5/12/2025
+"Every prospect must be run through the shithead test on their sales call:
+
+1. Rude on sales call = shithead
+
+2. Incessantly trying to bargain = shithead
+
+3. Redline's whole legal agreement = shithead
+
+Reader: Don't work with shitheads.",twitter,5/13/2025
+"quick playbook on being a top .01% job applicant without having a killer resume 
+
+- email the hiring managers after submitting your application 
+
+- be prepared for the interview (do research on the company)
+
+- follow up after the interview
+
+It really is that simple but you'd rather be lazy and bulk apply on LinkedIn Jobs and hope for the best",twitter,5/14/2025
+"when you're cracking cold traffic and signing 40+ clients a month, you will find that clients do not trust you
+
+you have to continue earning their trust post sales process 
+
+we're currently sending daily emails from account managers to the clients for the first 45 days",twitter,5/15/2025
+"Winning cold email:
+
+2021: Offer
+
+2022: Offer + social proof.
+
+2023: Offer + social proof + sales asset
+
+2024: Offer + social proof + sales asset + volume.
+
+2025: Offer + social proof + sales asset + volume + data enrichment.
+
+Game's getting harder.",twitter,5/16/2025
+"client success tip:
+
+pressure clients to create a ""cold ready offer""
+
+cole gordon nails this—clients must finish offer training & 
+submit 3-5 offers before onboarding
+
+80% of client results = the offer itself",twitter,5/17/2025
+"> be me
+> want to build a lead magnet
+> it must be something everyone wants
+> everyone wants ICP accounts
+> ask dev to build that functionality
+> i spend 30 mins on front-end in Lovable
+> have fully functioning lead magnet generating calls
+
+Total time: 2.5 hours.",twitter,5/18/2025
+"when people flex campaign results without giving background info - there’s usually a “hidden advantage” 
+
+i can literally email people who have engaged with us prior with a discounted offer and get a 9% reply rate with 40%+ being positive 
+
+low iq",twitter,5/19/2025
+"VALIDATE + SEND TO CATCH-ALLS. 
+
+These emails don't get hit as often and get you a higher reply rate.
+
+NOTE: Separate them from SMTP Valids because no validation tool is consistently accurate (changes according to industry etc.), and setup auto-pause when above 3% bounce
+",twitter,5/20/2025
+"Having all your inboxes set up on one of Google or Microsoft is a great way to build a lot of risk into your operation.
+
+The best way to keep deliverability consistent is having an even split of Google and Microsoft inboxes.
+
+Hypertide just launched Google for this reason.",twitter,5/21/2025
+"""Warm-up is useless - we're getting good results without it""
+
+- Great offer
+- Short email
+- Hyper-targeted list
+- Low volume
+
+Of course you don't need it.
+
+Any type of sending at scale 100% needs it.
+
+I don't get how this is even a debate.",twitter,5/22/2025
+"if you have a saturated offer and you refuse to change it for whatever reason 
+
+you have two options when outsourcing lead gen
+
+1. You find someone that is going to scale the volume 
+
+2. You find an agency that is going to run complex clay playbooks 
+
+that’s it",twitter,5/23/2025
+"Amazing cold email from someone looking for a job.
+
+1. True personalization
+2. Great pain + agitation.
+3. No ask for a call on first touch.
+4. Relevant social proof.
+
+If they send 100 of these, I am sure they'll get a bite.
+
+Take notes.",twitter,5/24/2025
+"Seeing deliverability trend slightly down, so this is probably a good time to share when you should actually worry.
+
+1. Monitor all campaigns
+2. Don't worry until reply rate gets under 1.5%
+
+Only when it does do you know you need to fix something.",twitter,5/25/2025
+"I know a company who's call booking form has 12 questions.
+
+They book 30 demos per month and do $1.5M/year.
+
+I know another company who's call booking form has 4 questions.
+
+They book 200 demos per month and do $5M+/year.
+
+I wonder what that's all about.",twitter,5/26/2025
+"If you have an offer you want to sell to cold traffic:
+
+1. Extremely low-risk to the prospect (PPL, guarantee, etc.)
+
+2. MUST help them make or save money.
+
+3. MUST solve a massive pain point.
+
+Otherwise, you're just spinning your wheels.",twitter,5/27/2025
+"Have you ever got an automated ""I'm out of office"" email from a prospect? 
+
+- Create an email template that says something like ""Welcome back, I was reaching out because xyz""
+- Scan automated email for the date when they come back
+- Schedule the templated email",twitter,5/28/2025
+"Catch-all verification:
+
+- Normal today
+- We built first
+
+LI company follower scraping:
+
+- We built/sold it 3 years ago
+- Companies are still getting to $20K MRR off it.
+
+Subsequences:
+
+- Built internally
+- Asked SL to build when we came from EMY
+
+Will happily take my flowers 💐",twitter,5/29/2025
+"Best deliverability tip I could give: 
+
+Focus on the fundamentals you know you need to have in place, then focus on the smaller things that may move the needle a bit.
+
+Perfect example:If you're just starting out or haven't been sending for a while, make sure you have:
+
+- Clean, diversified infra (Hypertide, Mailreef, non-branded domains)
+
+- Short copy that you constantly vary
+
+- No links, spam words, etc
+
+All the basic deliverability fundamentals...Once you have those in place, you can focus on the smaller needle-movers.
+
+Pretty much anything to do with the Smartlead API tbh.
+
+- Changing warm-up tag keywords
+- Rotating campaign start/end times
+
+That type of thing.
+
+Don't over-index on those before figuring out fundamentals.",twitter,5/30/2025
+"I can't verify this w/data
+
+But when a domain burns on Microsoft, we're transferring it over to Google and getting an extra 3-5 weeks of sending with it right now.
+
+I think success depends on how burnt it is in the first place.
+
+But good way to get more out of your domains.",twitter,5/31/2025
+"The agency owner who rams outbound volume even though he's at capacity and is forced to figure out ops will always beat the one who pauses outbound at capacity to ""perfect fulfillment"".
+",twitter,6/1/2025
+"Types of businesses it's almost impossible to generate leads for with cold email:
+
+- App dev
+- R&D labs
+- Web dev
+- Web design
+- Software dev
+- Branding agencies
+- Custom manufacturing",twitter,6/2/2025
+"- Ugly site
+- Headline
+- VSL
+- Case studies
+- 5 visitors/day
+
+will always beat
+
+- Beautiful site
+- Weak headline
+- No VSL
+- No case studies
+- 50 visitors/day
+
+Spend 2 hours max and move on.",twitter,6/3/2025
+"Sending from MSFT lately:
+
+- Best practices copy
+- 4 sentences
+- High spam rate across all tests
+
+Then:
+
+- Same sender accounts
+- Copy shortened to 2 sentences
+- Inboxes across all tests
+
+Anyone seeing the same?",twitter,6/4/2025
+"Local cold email subject lines might be the play.
+
+- {{famous local menu item 1}} or {{famous local menu item 2]}
+- {{local restaurant}}’s cocktails - yes or no?
+
+Tie in PS saying ""I know you get a ton of these so I wanted to make it relevant to you"".
+
+Proof it works:",twitter,6/5/2025
+"- No crazy Clay strategies
+- 1-liner campaigns
+- Cold call positive responses
+- Email back if they don't pick up
+- Push to 2-email subsequence if no reply
+
+40 positive replies, >50% booked into meetings so far.
+
+Great offer + social proof + short copy will never go out of style.",twitter,6/6/2025
+"$500K/mo+ comes from operating under the assumption that no one trusts you. Ever. 
+
+- Tons of trust-building organic social content from founder accounts.
+
+- Email-gated lead magnets that lead to 30-day nurture sequences loaded with social proof. 
+
+- As many customer interviews on your site as you possibly can. 
+
+- Social proof on your call booking page and call booking confirmation page. 
+
+- Pre-call drip with 3-5 (or more) pieces of social proof. 
+
+- Reiterate past results on sales call. 
+
+- Set crystal clear expectations immediately upon onboarding. 
+
+- Daily emails from account managers to new clients for 30 to 45 days laced with social proof.
+
+- Clear process and results documentation for new client to understand every tiny detail about how you work.
+
+Operate under the assumption that their trust level for you is at 0 at all times, no matter what, and you'll be fine.",twitter,6/7/2025
+"Lead scoring with Clay guide:
+
+> Use Claygent to grab general info on company (this prompt should be long and give you a detailed output - this matters for the next step)
+
+> next prompt: Based off this input, on a scale of 1 to 5, 5 being the most accurate, 1 being the least accurate, does it match [detailed ICP description]? Give a score.
+
+NOTES:
+
+- Initial prompt must be long and detailed enough to grab all relevant info on company. This will determine the accuracy of the scoring from the next prompt. 
+
+- Your ICP description in the second prompt must also be incredibly detailed. The clearer you are on it, the better the scoring goes. 
+
+If you want to see the prompts we use on this, just let me know",twitter,6/8/2025
+"How our onboarding happens, step-by-step:
+
+1. Client signs and pays quote.
+
+2. Signature triggers an automated email that gives them the onboarding form and a guide on how to complete the onboarding form. 
+
+3. The second they click submit on the form, an automation in our backend is kicked off, a part of which is a round robin to assign a CSM.
+
+4. Customer gets an automated introduction email to their CSM with the CSM's calendar link for the customer to schedule an onboarding call.
+
+5. With that, an onboarding document is automatically created that takes all of their form answers and puts it into a Google Doc with a little bit more info. 
+
+6. Access for the customer is automatically created in Smartlead's white label.
+
+7. Tasks are auto-assigned to everyone on the fulfillment team to complete the work required for the new client. 
+
+After that, we go to the onboarding call where the CSM takes over the engagement. 
+
+Let me know if you want a video on this or anything.",twitter,6/9/2025
+"Crazy cold email stat of the day:
+
+Our catch-all campaigns get a 30-80% increase in reply rate compared to regular ones.
+
+These are literal gold prospects. 
+
+They get the least cold emails out of anyone, so if your message is good, they are WAY more likely to reply. 
+
+Right now you have a 3-5 year window of sending to verified catch-alls before the market catches up.
+
+Please, if you aren't doing this already:
+
+1. Pull your list
+2. Verify regular emails
+3. Put valids into a campaign
+4. Verify catch-alls.
+5. Put catch-all valids into separate campaign
+
+*Only caveat is catch-all campaigns generally have higher bounce rates than regular SMTP valids",twitter,6/10/2025
+"Local lead gen with cold email is still incredibly untapped. Here's a list of offers + template to steal:
+
+- HVAC
+- Plumbing
+- Pest control
+- Landscaping
+- Power washing
+- Barber services
+- Window cleaning
+- Corporate headshots
+- Commercial cleaning
+- Event planning/hosting
+
+1. Filter list for your city
+2. Write city-relevant email with a strong offer.
+3. Offer to meet in-person to discuss
+
+Ex:
+
+- Filter for 11-50 person businesses in your city
+
+- Write an email referencing the area /intersection and what you do
+
+- Offer a free portion or sample of what you do
+
+- Asked to meet at a coffee shop near their office to discuss. 
+
+That might look like:
+
+--
+
+John, notice ABC Corp is around 42nd and 2nd Street - we've been cleaning some offices there. 
+
+We'd love to offer you a free cleaning to get our foot in the door. 
+
+Want to meet at Sample Coffee Shop to discuss? On me. 
+
+Best,
+Nick
+
+--
+
+Someone do this.",twitter,6/11/2025
+"There's a guy on here who's agency does $2,000,000+/year. You likely know him.
+
+- Small team.
+- Under 30 clients.
+- Great social proof.
+- Extremely profitable.
+- Best of the best at what they do.
+
+You don't need to be big to make big money.",twitter,6/12/2025
+"I've grown my agency from zero to multi 7-figures in under 5 years.
+
+The biggest thing I learned about scaling a service business is you must assume your customers have zero knowledge of your process or how it works at all times
+
+It's easy to get customers from organic content who know, like, and trust you. These clients will often be way easier to deal with, won't have as many questions, and be far less skeptical about you and your process.
+
+But that changes with cold traffic (which you need to scale). 
+
+You simply cannot assume that cold traffic knows likes and trusts you the way clients that come from organic traffic do. 
+
+They are more skeptical, have way more questions, and of course will be harder to deal with. 
+
+That's fine, but you need to do everything you can to get over the lack of inherent trust they have in you and deliver a great service. 
+
+That means you must make your processes, documents, and communications as simple and detailed as possible. A monkey should be able to understand them. 
+
+A few ways this shows up in your service:
+
+1) Rock solid MSA and SOW with clear expectations and deliverables laid out. 
+
+2) Crystal clear onboarding where you reiterate all expectations and deliverables and make the client verbally confirm that they understand all of them 
+
+3) In-depth documentation as to what they can expect and/or use with your service (accessing billing, reports, etc.)
+
+This may sound like overkill, but if you want any chance of scaling your service business, it is 100% necessary.",twitter,6/13/2025
+"the micro optimization eventually stack and have compounding effects 
+
+- rotating warmup tags weekly
+- adjusting sending schedule daily 
+- spintaxing signature 
+- sending in recipients timezone 
+- deprioritizing leads with email security
+- prioritizing leads that match your ICP 
+- validating and emailing your catch alls
+- rotating your email infra monthly",twitter,6/14/2025
