@@ -31,7 +31,7 @@ PINECONE_ENVIRONMENT=your_pinecone_environment
 
 2. Run the ingestion script:
 ```bash
-python -m src.run_ingestion data/uploads/your_file.csv p
+python -m src.run_ingestion data/uploads/your_file.csv
 ```
 
 ## Features
